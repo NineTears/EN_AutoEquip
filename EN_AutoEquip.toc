@@ -1,0 +1,12 @@
+﻿## Interface: 11200
+## Title: Enigma Auto Equip
+## Title-zhCN: |CFFFF8000[界面]|R 一键换装
+## Notes: Swap your suites with one click.
+## Notes-zhCN: 快速装备,更换或脱掉你身上的装备
+## X-Repple: 界面
+## Author: Enigma，Q-CAT，菜叶的芝麻地，Wind
+## Version: 1.0.0
+## SavedVariablesPerCharacter: EAE_Config
+EN_AutoEquip.xml
+Perl_Naked.xml
+## Q-CAT-Version: 000100

@@ -1,0 +1,17 @@
+<Bindings>
+	<Binding name="EAE_SET1" runOnUp="false" header="EAE_TITLE">
+		EAE_SetButton_OnClick(1);
+	</Binding>
+	<Binding name="EAE_SET2" runOnUp="false">
+		EAE_SetButton_OnClick(2);
+	</Binding>
+	<Binding name="EAE_SET3" runOnUp="false">
+		EAE_SetButton_OnClick(3);
+	</Binding>
+	<Binding name="EAE_SET4" runOnUp="false">
+		EAE_SetButton_OnClick(4);
+	</Binding>
+	<Binding name="RENAKED">
+		SlashCmdList.NAKEDTOGGLE();
+	</Binding>
+</Bindings>
