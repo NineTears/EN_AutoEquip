@@ -1,6 +1,6 @@
 ﻿## Interface: 11200
 ## Title: Enigma Auto Equip
-## Title-zhCN: |CFFFF8000[界面]|R 一键换装
+## Title-zhCN: |CFFFF8000[界面]|R 一键换装修复版
 ## Notes: Swap your suites with one click.
 ## Notes-zhCN: 快速装备,更换或脱掉你身上的装备
 ## X-Repple: 界面
